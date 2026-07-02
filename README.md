@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/_Office_PowerPoint_%282025%E2%80%93present%29.svg/960px-_Office_PowerPoint_%282025%E2%80%93present%29.svg.png" width="100" alt="PowerPoint icon"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/960px-Microsoft_PowerPoint_2013-2019_logo.svg.png?_=20221202081054" width="100" alt="PowerPoint icon"/></p>
 <h1 align="center">PowerPoint</h1>
 <p align="center">Native presentation creation — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
